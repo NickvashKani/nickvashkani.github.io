@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Assistant Professor at UIUC, Head of MLP-group
+subtitle: <a href='#'>Affiliations</a>. Teaching Assistant Professor at UIUC, Head of MLP-group
 
 profile:
   align: right
