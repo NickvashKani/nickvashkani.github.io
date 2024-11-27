@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Assistant Profressor at UIUC, Head of MLP-group
+subtitle: <a href='#'>Affiliations</a>. Research Assistant Professor at UIUC, Head of MLP-group
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Teaching Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign. I have a research group and a course that I have taught from Fall 2020 - Fall 2023. You can find link below (images are links).  
+I am a Teaching Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois at Urbana-Champaign. I have a research group and a course that I have taught from Fall 2020 - Fall 2024. You can find the link below (images are links).  
 
 My research can be best described by the umbrella phrase of Mathematical Language Processing. While researchers have spent the last few decades creating algorithms and systems that can better process natural language (e.g., English, German, etc.) texts, mathematical data has received far less attention. This is unfortunate because true intelligence, the type of intelligence current AI researchers want to create, is not mimicry or remixing known literature. True intelligence is axiomatic. It is reasoning; it is the ability to see that if A=B and B=C, then A must equal C. Mathematics is the language of axiomatic knowledge, and by focusing on mathematical literature, we can generate knowledge axioms from unlabeled literature, enabling the automated collection of axiomatic knowledge. I advise a group of brilliant young researchers dedicated to this problem. Please visit us at the [Mathematical Language Processing Group](https://mlpgroup.xyz/)!
 
@@ -29,6 +29,6 @@ geared toward large, STEM-based courses. Feel free to visit the [ECE374 Course W
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
